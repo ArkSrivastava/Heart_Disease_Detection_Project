@@ -52,5 +52,4 @@ If you want me to:
 - add a script to train and persist a model from `data/`,
 tell me and I will add it.
 
----
-Final Year Project | BT1378
+
